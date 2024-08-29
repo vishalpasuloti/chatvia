@@ -1,0 +1,14 @@
+.text-muted{
+    color:#7a7f9a;
+    font-size: 16px;
+    font-weight:450;
+}
+
+.container{
+    border: 2px solid whitesmoke;
+    width: 30%;
+    
+
+
+    box-shadow: 0 0 5px 5px whitesmoke(0,0,0,.1);
+}
